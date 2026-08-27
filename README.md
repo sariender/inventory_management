@@ -15,7 +15,7 @@ jupyter notebook
 ```
 
 Note: the notebook opens with `import scripts`, a local helper module that is
-**not in this repository**, so it will not run end to end as cloned. The analysis
+not in this repository, so it will not run end to end as cloned. The analysis
 and the output are still readable in the committed cells.
 
 Write-up: <https://endersari.com/projects/data-anomalies/>
