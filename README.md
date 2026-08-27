@@ -4,8 +4,8 @@
 from transaction records that do not quite add up. Stock going below zero,
 receipts with no matching order, duplicate transaction ids.
 
-**A rule only means something against a stated model of how the stockroom works**,
-so the notebook writes those assumptions down before flagging anything.
+A rule only means something against a stated model of how the stockroom works, so
+the notebook writes those assumptions down before flagging anything.
 
 ## Running it
 
